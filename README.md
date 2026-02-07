@@ -1,4 +1,4 @@
-# LogJammer Sherlock | HackTheBox Walkthrough
+# LogJammer Sherlock | Hack The Box Walkthrough
 > ## Using Windows Event Viewer to analyze Security, System, PowerShell, Windows Defender, and Firewall Sysmon logs
 
 ### [>>GOOGLE DOC VERSION <<](https://docs.google.com/document/d/1Cfj9ygWGTZB16vZoHgMVAgPtaJwHfJhfc1LwzzC13FE/edit?usp=sharing) (Originally posted on Medium.com)
